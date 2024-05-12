@@ -1,2 +1,2 @@
 # Azure-hackathon
-Azureハッカソンで作成したツール
+[Azure OpenAI 学生向けハッカソンで作成したツール](https://github.com/noboRu5525/Azure-hackathon)
